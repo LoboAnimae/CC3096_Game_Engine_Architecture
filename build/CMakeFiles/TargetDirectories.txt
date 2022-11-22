@@ -1,6 +1,0 @@
-/home/yagdrassyl/Documents/University/Code/ArquitecturaJuegos/PongECS/build/CMakeFiles/SDLDEMO.dir
-/home/yagdrassyl/Documents/University/Code/ArquitecturaJuegos/PongECS/build/CMakeFiles/edit_cache.dir
-/home/yagdrassyl/Documents/University/Code/ArquitecturaJuegos/PongECS/build/CMakeFiles/rebuild_cache.dir
-/home/yagdrassyl/Documents/University/Code/ArquitecturaJuegos/PongECS/build/src/Game/CMakeFiles/Game.dir
-/home/yagdrassyl/Documents/University/Code/ArquitecturaJuegos/PongECS/build/src/Game/CMakeFiles/edit_cache.dir
-/home/yagdrassyl/Documents/University/Code/ArquitecturaJuegos/PongECS/build/src/Game/CMakeFiles/rebuild_cache.dir
