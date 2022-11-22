@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/SDLDEMO.dir/src/main.cpp.o -o SDLDEMO   -L/home/yagdrassyl/Documents/University/Code/ArquitecturaJuegos/PongECS/src/Game  -Wl,-rpath,/home/yagdrassyl/Documents/University/Code/ArquitecturaJuegos/PongECS/src/Game -lSDL2main -lSDL2 -lSDL2_image src/Game/libGame.a 

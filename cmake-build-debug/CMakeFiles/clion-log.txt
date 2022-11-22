@@ -1,0 +1,138 @@
+/home/yagdrassyl/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/yagdrassyl/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/ninja/linux/ninja -G Ninja -S /home/yagdrassyl/CLionProjects/CC3096_Game_Engine_Architecture -B /home/yagdrassyl/CLionProjects/CC3096_Game_Engine_Architecture/cmake-build-debug
+-- The C compiler identification is GNU 12.2.0
+-- The CXX compiler identification is GNU 12.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+bash: line 1: cd: make-build-debug: No such file or directory
+Configuration:
+[settings]
+arch=x86_64
+arch_build=x86_64
+build_type=Release
+compiler=gcc
+compiler.libcxx=libstdc++
+compiler.version=12
+os=Linux
+os_build=Linux
+[options]
+[build_requires]
+[env]
+
+conanfile.txt: Installing package
+Requirements
+    autoconf/2.71 from 'conancenter' - Cache
+    automake/1.16.5 from 'conancenter' - Cache
+    egl/system from 'conancenter' - Cache
+    entt/3.11.0 from 'conancenter' - Cache
+    expat/2.4.9 from 'conancenter' - Cache
+    flac/1.3.3 from 'conancenter' - Cache
+    libalsa/1.2.7.2 from 'conancenter' - Cache
+    libcap/2.65 from 'conancenter' - Cache
+    libffi/3.4.3 from 'conancenter' - Cache
+    libiconv/1.17 from 'conancenter' - Cache
+    libsndfile/1.0.31 from 'conancenter' - Cache
+    libtool/2.4.7 from 'conancenter' - Cache
+    libunwind/1.6.2 from 'conancenter' - Cache
+    libxml2/2.9.14 from 'conancenter' - Cache
+    m4/1.4.19 from 'conancenter' - Cache
+    nas/1.9.4 from 'conancenter' - Cache
+    ogg/1.3.5 from 'conancenter' - Cache
+    opengl/system from 'conancenter' - Cache
+    openssl/1.1.1q from 'conancenter' - Cache
+    opus/1.3.1 from 'conancenter' - Cache
+    pulseaudio/14.2 from 'conancenter' - Cache
+    sdl/2.24.1 from 'conancenter' - Cache
+    vorbis/1.3.7 from 'conancenter' - Cache
+    wayland/1.21.0 from 'conancenter' - Cache
+    wayland-protocols/1.27 from 'conancenter' - Cache
+    xkbcommon/1.4.1 from 'conancenter' - Cache
+    xkeyboard-config/system from 'conancenter' - Cache
+    xorg/system from 'conancenter' - Cache
+    xz_utils/5.2.5 from 'conancenter' - Cache
+    zlib/1.2.13 from 'conancenter' - Cache
+Packages
+    autoconf/2.71:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9 - Download
+    automake/1.16.5:258f6f05ca54813b3d7180161753df7f9ccf7e1d - Download
+    egl/system:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9 - Download
+    entt/3.11.0:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9 - Cache
+    expat/2.4.9:a1ba772dbe13186199f7ecf8dde362ba9613ecf7 - Missing
+    flac/1.3.3:df46980f95357f17cd329b5a9f670f52f267b17a - Missing
+    libalsa/1.2.7.2:bff4e519ddeceb9c14aa49414e88f976ff8057c2 - Missing
+    libcap/2.65:2a19826344ff00be1c04403f2f8e7008ed3a7cc6 - Missing
+    libffi/3.4.3:2a19826344ff00be1c04403f2f8e7008ed3a7cc6 - Missing
+    libiconv/1.17:2a19826344ff00be1c04403f2f8e7008ed3a7cc6 - Missing
+    libsndfile/1.0.31:8082d8f02e9eec85fefbf1ef26279e51e2789b92 - Missing
+    libtool/2.4.7:ed03dd185916c6a62cfea9667c4eb5fa400961da - Missing
+    libunwind/1.6.2:834ed377e7c47e86a4020acdf4a045bf0c7ca8ca - Missing
+    libxml2/2.9.14:c4a7cacf01760cbd7354b11a55bf653f7df2bf5d - Missing
+    m4/1.4.19:24647d9fe8ec489125dfbae4b3ebefaf7581674c - Download
+    nas/1.9.4:a29ef67da03ad31b09943db2ec70fa403742fff3 - Missing
+    ogg/1.3.5:2a19826344ff00be1c04403f2f8e7008ed3a7cc6 - Missing
+    opengl/system:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9 - Download
+    openssl/1.1.1q:2a19826344ff00be1c04403f2f8e7008ed3a7cc6 - Missing
+    opus/1.3.1:2a19826344ff00be1c04403f2f8e7008ed3a7cc6 - Missing
+    pulseaudio/14.2:801a6008e9fd1bab2755aa746c10a7f13d4f3406 - Missing
+    sdl/2.24.1:d122d97841f9658ff6482da1eeed4cf65c4eff7b - Missing
+    vorbis/1.3.7:225b55c9451ad1ac84719ea28291732c07480c9d - Missing
+    wayland/1.21.0:ec57519fed07a41a80fb865b7a56260871c02f45 - Missing
+    wayland-protocols/1.27:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9 - Download
+    xkbcommon/1.4.1:de3a81b0f7b1d73f28817484f43c5049c7b28b5e - Missing
+    xkeyboard-config/system:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9 - Download
+    xorg/system:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9 - Download
+    xz_utils/5.2.5:2a19826344ff00be1c04403f2f8e7008ed3a7cc6 - Missing
+    zlib/1.2.13:2a19826344ff00be1c04403f2f8e7008ed3a7cc6 - Missing
+
+Installing (downloading, building) binaries...
+ERROR: Missing binary: expat/2.4.9:a1ba772dbe13186199f7ecf8dde362ba9613ecf7
+ERROR: Missing binary: flac/1.3.3:df46980f95357f17cd329b5a9f670f52f267b17a
+ERROR: Missing binary: libalsa/1.2.7.2:bff4e519ddeceb9c14aa49414e88f976ff8057c2
+ERROR: Missing binary: libcap/2.65:2a19826344ff00be1c04403f2f8e7008ed3a7cc6
+ERROR: Missing binary: libffi/3.4.3:2a19826344ff00be1c04403f2f8e7008ed3a7cc6
+ERROR: Missing binary: libiconv/1.17:2a19826344ff00be1c04403f2f8e7008ed3a7cc6
+ERROR: Missing binary: libsndfile/1.0.31:8082d8f02e9eec85fefbf1ef26279e51e2789b92
+ERROR: Missing binary: libtool/2.4.7:ed03dd185916c6a62cfea9667c4eb5fa400961da
+ERROR: Missing binary: libunwind/1.6.2:834ed377e7c47e86a4020acdf4a045bf0c7ca8ca
+ERROR: Missing binary: libxml2/2.9.14:c4a7cacf01760cbd7354b11a55bf653f7df2bf5d
+ERROR: Missing binary: nas/1.9.4:a29ef67da03ad31b09943db2ec70fa403742fff3
+ERROR: Missing binary: ogg/1.3.5:2a19826344ff00be1c04403f2f8e7008ed3a7cc6
+ERROR: Missing binary: openssl/1.1.1q:2a19826344ff00be1c04403f2f8e7008ed3a7cc6
+ERROR: Missing binary: opus/1.3.1:2a19826344ff00be1c04403f2f8e7008ed3a7cc6
+ERROR: Missing binary: pulseaudio/14.2:801a6008e9fd1bab2755aa746c10a7f13d4f3406
+ERROR: Missing binary: sdl/2.24.1:d122d97841f9658ff6482da1eeed4cf65c4eff7b
+ERROR: Missing binary: vorbis/1.3.7:225b55c9451ad1ac84719ea28291732c07480c9d
+ERROR: Missing binary: wayland/1.21.0:ec57519fed07a41a80fb865b7a56260871c02f45
+ERROR: Missing binary: xkbcommon/1.4.1:de3a81b0f7b1d73f28817484f43c5049c7b28b5e
+ERROR: Missing binary: xz_utils/5.2.5:2a19826344ff00be1c04403f2f8e7008ed3a7cc6
+ERROR: Missing binary: zlib/1.2.13:2a19826344ff00be1c04403f2f8e7008ed3a7cc6
+
+expat/2.4.9: WARN: Can't find a 'expat/2.4.9' package for the specified settings, options and dependencies:
+- Settings: arch=x86_64, build_type=Release, compiler=gcc, compiler.version=12, os=Linux
+- Options: char_type=char, fPIC=True, shared=False
+- Dependencies: 
+- Requirements: 
+- Package ID: a1ba772dbe13186199f7ecf8dde362ba9613ecf7
+
+ERROR: Missing prebuilt package for 'expat/2.4.9', 'flac/1.3.3', 'libalsa/1.2.7.2', 'libcap/2.65', 'libffi/3.4.3', 'libiconv/1.17', 'libsndfile/1.0.31', 'libtool/2.4.7', 'libunwind/1.6.2', 'libxml2/2.9.14', 'nas/1.9.4', 'ogg/1.3.5', 'openssl/1.1.1q', 'opus/1.3.1', 'pulseaudio/14.2', 'sdl/2.24.1', 'vorbis/1.3.7', 'wayland/1.21.0', 'xkbcommon/1.4.1', 'xz_utils/5.2.5', 'zlib/1.2.13'
+Use 'conan search expat/2.4.9@ --table=table.html -r=remote' and open the table.html file to see available packages
+Or try to build locally from sources with '--build=missing'
+
+More Info at 'https://docs.conan.io/en/latest/faq/troubleshooting.html#error-missing-prebuilt-package'
+
+-- Conan: Adjusting output directories
+-- Conan: Using cmake global configuration
+-- Conan: Adjusting default RPATHs Conan policies
+-- Conan: Adjusting language standard
+-- Current conanbuildinfo.cmake directory: /home/yagdrassyl/CLionProjects/CC3096_Game_Engine_Architecture/cmake-build-debug
+-- Conan: Compiler GCC>=5, checking major version 12
+-- Conan: Checking correct version: 12
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/yagdrassyl/CLionProjects/CC3096_Game_Engine_Architecture/cmake-build-debug

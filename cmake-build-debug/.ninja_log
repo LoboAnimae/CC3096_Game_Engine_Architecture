@@ -1,0 +1,11 @@
+# ninja log v5
+1	3885	1669075495212982196	CMakeFiles/PongECS.dir/src/Game/Game.cpp.o	4e57c012c521cfe7
+1	1573	1669065349152279983	CMakeFiles/PongECS.dir/src/main.cpp.o	bc86be5c7476422c
+1	1650	1669060446431489342	CMakeFiles/PongECS.dir/src/Entity/Entity.cpp.o	694ba1124685deb3
+3885	4044	1669075495376982948	bin/PongECS	ef84d8c3f0919ef3
+1	1705	1669060446487489240	CMakeFiles/PongECS.dir/src/Scene/Scene.cpp.o	850d0b324eb6efcf
+1	1570	1669076088638781680	CMakeFiles/PongECS.dir/src/main.cpp.o	575fe99826e0424d
+1	1849	1669076088918775964	CMakeFiles/PongECS.dir/src/Scene/Scene.cpp.o	5ea6902f00781aff
+1	1890	1669076088958775147	CMakeFiles/PongECS.dir/src/Entity/Entity.cpp.o	2c8649ce9b054296
+1	3803	1669076090866736316	CMakeFiles/PongECS.dir/src/Game/Game.cpp.o	a74beccb09c10820
+3804	3911	1669076090978734041	bin/PongECS	ef84d8c3f0919ef3

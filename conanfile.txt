@@ -1,0 +1,6 @@
+[requires]
+entt/3.11.0
+sdl/2.24.1
+
+[generators]
+cmake
